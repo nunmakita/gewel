@@ -11,3 +11,4 @@ features:
 footer: MIT Licensed 
 <disqus/>
 ---
+<disqus/>
