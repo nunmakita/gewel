@@ -1,0 +1,1 @@
+[pembuatan blog ini](start.md)
