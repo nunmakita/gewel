@@ -8,6 +8,6 @@ features:
   details: Ini merupakan web static untuk portofolio.
 - title: Tentang
   details: Semacam halaman tentang saya dan situs ini.
-<disqus/> 
 footer: MIT Licensed 
+<disqus/>
 ---
